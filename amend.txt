@@ -1,0 +1,2 @@
+We ar learning git amend
+one more line
